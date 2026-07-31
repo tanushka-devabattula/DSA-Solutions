@@ -10,11 +10,7 @@ class Solution {
             res[n-i]=-(i);
         }
 
-        if(n%2==0)
-        {
-            res[n/2]=n/2;
-            res[n/2-1]=-(n/2);
-        }
+       
 
         return res;
     }
