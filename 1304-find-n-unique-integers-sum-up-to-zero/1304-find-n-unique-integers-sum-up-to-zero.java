@@ -1,14 +1,13 @@
 class Solution {
     public int[] sumZero(int n) {
         int[] res=new int[n];
-       for(int i=1;i<=(n/2);i++)
-       {
-        res[i-1]=i;
-       }
-        for(int i=1;i<=(n/2);i++)
-        {
-            res[n-i]=-(i);
-        }
+       int left = 0;
+int right = n - 1;
+
+for (int i = 1; i <= n / 2; i++) {
+    res[left++] = i;
+    res[right--] = -i;
+}
 
        
 
