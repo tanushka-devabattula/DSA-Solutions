@@ -17,23 +17,16 @@ class Solution {
        for(int i=0;i<matrix.length;i++)
        {
         int min=matrix[i][0],col=0;
-        for(int j=0;j<matrix[i].length-1;j++)
+        for(int j=0;j<matrix[i].length;j++)
         {
-               if(matrix[i][j]<=matrix[i][j+1] && matrix[i][j]<=min)
+               if(matrix[i][j]<=min)
               {
                  min=matrix[i][j];
                  col=j;
-                 
-
+                
               }
 
-              else{
-                if(min>=matrix[i][j+1])
-               { min=matrix[i][j+1];
-                 col=j+1;
-               }
-
-              }
+              
         }
        
         boolean ans= ismaxi(col,min,matrix);
