@@ -1,5 +1,5 @@
-# leetcode-solutions
-Personal collection of my Java solutions to LeetCode problems.
+# DSA Solutions
+Personal collection of my Java solutions to Data Structures and Algorithms problems.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
