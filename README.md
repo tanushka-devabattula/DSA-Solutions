@@ -12,6 +12,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -34,4 +35,8 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
