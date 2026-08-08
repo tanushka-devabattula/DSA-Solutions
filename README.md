@@ -14,6 +14,7 @@ Personal collection of my Java solutions to LeetCode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
