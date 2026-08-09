@@ -6,6 +6,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2235-add-two-integers](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Array
@@ -14,6 +15,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
@@ -39,4 +41,17 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
