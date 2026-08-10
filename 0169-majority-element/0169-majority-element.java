@@ -8,7 +8,7 @@ class Solution {
           else
           count--;
           
-            if(count==0 && can!=nums[i])
+            if(count==0)
             {
                 can=nums[i];
                 count=1;
