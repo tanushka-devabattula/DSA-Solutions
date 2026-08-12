@@ -7,6 +7,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | ------- |
 | [0189-rotate-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2235-add-two-integers](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Array
@@ -88,4 +89,13 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
