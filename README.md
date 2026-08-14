@@ -5,6 +5,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -88,6 +89,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -98,4 +100,8 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
