@@ -16,6 +16,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -75,6 +76,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -95,6 +97,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
