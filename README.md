@@ -9,6 +9,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0062-unique-paths](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2235-add-two-integers](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -113,6 +114,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0062-unique-paths](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0357-count-numbers-with-unique-digits](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -134,4 +136,8 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
