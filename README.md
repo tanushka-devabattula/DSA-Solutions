@@ -34,6 +34,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0485-max-consecutive-ones](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0704-binary-search](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0704-binary-search) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -78,6 +79,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
