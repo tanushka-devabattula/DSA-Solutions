@@ -13,6 +13,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2235-add-two-integers](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Array
 |  |
 | ------- |
