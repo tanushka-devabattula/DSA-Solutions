@@ -20,6 +20,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -62,6 +63,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0189-rotate-array) |
