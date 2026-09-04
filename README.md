@@ -6,6 +6,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0189-rotate-array) |
