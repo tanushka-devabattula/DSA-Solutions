@@ -14,6 +14,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0357-count-numbers-with-unique-digits](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Array
@@ -43,6 +44,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0704-binary-search](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0704-binary-search) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1512-number-of-good-pairs](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -85,6 +87,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0242-valid-anagram](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +114,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | ------- |
 | [0169-majority-element](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
