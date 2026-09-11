@@ -72,6 +72,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0027-remove-element](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -87,6 +88,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -192,10 +194,12 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
