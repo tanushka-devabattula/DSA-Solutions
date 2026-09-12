@@ -10,6 +10,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0048-rotate-image](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -63,6 +64,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -202,4 +204,8 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
