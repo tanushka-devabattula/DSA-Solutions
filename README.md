@@ -15,6 +15,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0357-count-numbers-with-unique-digits](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -85,6 +86,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | ------- |
 | [0136-single-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Hash Table
 |  |
