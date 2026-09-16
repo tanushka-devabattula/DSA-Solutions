@@ -155,6 +155,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0152-maximum-product-subarray](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
 |  |
@@ -185,6 +186,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1143-longest-common-subsequence](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Meet in the Middle
 |  |
 | ------- |
@@ -214,4 +216,8 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0258-add-digits) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
