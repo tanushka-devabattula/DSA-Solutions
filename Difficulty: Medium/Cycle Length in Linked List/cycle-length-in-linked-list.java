@@ -12,7 +12,7 @@ class Node {
 class Solution {
     public int lengthOfLoop(Node head) {
         Node slow=head,fast=head;
-        int count=0;
+       
         while(fast!=null && fast.next!=null)
         {
             slow=slow.next;
@@ -33,14 +33,12 @@ class Solution {
             fast=fast.next;
           
         }
-        
-        fast=slow;
-        while(fast.next!=slow)
+        int count=1;
+        while(slow.next!=fast)
         {
-            fast=fast.next;
-            count++;
+          count++;
+          slow=slow.next;
         }
-        return count+1;
-        
+        return count;
     }
 }
