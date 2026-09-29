@@ -44,6 +44,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0229-majority-element-ii](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0416-partition-equal-subset-sum](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -83,6 +84,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0189-rotate-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -92,6 +94,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | ------- |
 | [0136-single-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1486-xor-operation-in-an-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Hash Table
@@ -114,6 +117,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0035-search-insert-position](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0704-binary-search) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -224,6 +228,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -244,4 +249,8 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
