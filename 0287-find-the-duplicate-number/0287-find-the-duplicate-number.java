@@ -1,9 +1,20 @@
 class Solution {
-    public int findDuplicate(int[] a) {
-      Arrays.sort(a);
-      for(int i=0;i<a.length-1;i++)
-      if(a[i]==a[i+1])
-        return a[i];
-        return a[0];
+    public int findDuplicate(int[] nums) {
+      int tortoise = nums[0];
+        int hare = nums[0];
+        
+        do {
+            tortoise = nums[tortoise];       
+            hare = nums[nums[hare]];        
+        } while (tortoise != hare);
+        
+     
+        tortoise = nums[0];
+        while (tortoise != hare) {
+            tortoise = nums[tortoise];      
+            hare = nums[hare];
+        }
+        
+        return tortoise;
     }
 }
