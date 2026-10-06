@@ -16,27 +16,28 @@ class Solution {
             head=head.next;
         }
         
-        if(head==null || (head.next==null && head.val==val) )
-        return null;
+        // if(head==null || (head.next==null && head.val==val) )
+        // return null;
           
-         if(head.next==null && head.val!=val)
-         return head; 
+        //  if(head.next==null && head.val!=val)
+        //  return head; 
        
       
       ListNode temp=head;
-      ListNode prev=head;
+      ListNode prev=null;
         while(temp!=null)
         {
             if(temp.val==val)
             {
                 prev.next=temp.next;
-                temp=temp.next;
+               
                
             }
             else{
                prev=temp;
-               temp=temp.next;
             }
+
+             temp=temp.next;
         }
         return head;
         
