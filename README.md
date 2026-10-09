@@ -242,6 +242,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Knapsack Problem
 |  |
@@ -255,4 +256,16 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
