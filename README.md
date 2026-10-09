@@ -57,6 +57,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Bit Manipulation
 |  |
 | ------- |
