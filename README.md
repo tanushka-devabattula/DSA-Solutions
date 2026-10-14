@@ -56,6 +56,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [1512-number-of-good-pairs](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -208,6 +209,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | ------- |
 | [0242-valid-anagram](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Meet in the Middle
 |  |
 | ------- |
