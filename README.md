@@ -42,6 +42,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0169-majority-element](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -67,6 +68,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0048-rotate-image](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Simulation
@@ -198,6 +200,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Prefix Sum
 |  |
@@ -292,6 +295,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0101-symmetric-tree](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -309,6 +313,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0100-same-tree](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
