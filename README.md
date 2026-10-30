@@ -32,6 +32,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | [0053-maximum-subarray](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -65,6 +66,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 | ------- |
 | [0048-rotate-image](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Simulation
@@ -204,10 +206,12 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0079-word-search) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -282,6 +286,7 @@ Personal collection of my Java solutions to Data Structures and Algorithms probl
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tanushka-devabattula/leetcode-solutions/tree/master/0101-symmetric-tree) |
